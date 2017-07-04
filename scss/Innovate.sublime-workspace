@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"colo",
+				"colorCubo"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"color",
+				"colorTexto"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"colorc",
+				"colorCubo1"
+			],
+			[
+				"colorT",
+				"colorTitulo"
+			],
+			[
+				"margin-",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/header.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/js/scriptsweb.js",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/page.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/single.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/template-parts/slider.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/functions.php",
+		"/Users/albertorodriguez/Desktop/front-page.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/codigo - Paginas Internal.html",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/404.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/archive.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/app.scss",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/search.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/template-parts/header-interno.php",
+		"/Users/albertorodriguez/Desktop/Funmover/efectovirtual-ev/page.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/footer.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/img/noticia1.jpg",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/node_modules/browser-sync/lib/internal-events.js",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/gulpfile.js",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/inc/ev.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/style.css",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/scss/_custom.scss",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/frontpage.php",
+		"/Applications/MAMP/htdocs/americano/wp-content/themes/colegioamericano/js/app.js",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/functions.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/scss/_custom.scss",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/css/app.css",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/scss/app.scss",
+		"/Users/albertorodriguez/Desktop/functions.php",
+		"/Applications/MAMP/htdocs/innovate/wp-content/themes/innovate/gulpfile.js",
+		"/Users/albertorodriguez/Documents/CLIENTES/Unireformada/POPUP/codigo.html",
+		"/Users/albertorodriguez/Desktop/footer.php",
+		"/Users/albertorodriguez/Downloads/tcpdf_fonts.php",
+		"/Users/albertorodriguez/Downloads/tcpdf_fonts (1).php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".menumen",
+			"nav{\n\t\t\t\ta{",
+			"@media screen and (min-width: $maximo-ancho)",
+			"header",
+			"imgvertical",
+			".headerpages",
+			".headerpages ",
+			".headerpages .main-navigation > span",
+			"botoneventos",
+			"SEP",
+			"medio",
+			"the",
+			"boton",
+			"header",
+			"@include",
+			"mixin",
+			"centerVertical",
+			"@mixin",
+			" @mixin",
+			"rgba",
+			".menumen",
+			".menumen nav a",
+			".headerpages .menumen nav a",
+			";\n",
+			"span",
+			"como",
+			"$centerVertical;",
+			"flex",
+			"cuadrosblancos",
+			"flex-grid;",
+			"z-index",
+			"header",
+			"menumen",
+			"medium",
+			"footer",
+			"medium",
+			"mes",
+			"dia",
+			"medium-6 columns",
+			"medium-8",
+			"medium-4",
+			"medium-6",
+			"4",
+			"imagennoti",
+			"column-6",
+			"paralla",
+			"mueveaa",
+			"=",
+			"rem-calc(",
+			"seccionesini",
+			".wrapper-slide",
+			".png",
+			"orbit-previous",
+			"inno",
+			"background",
+			"symlink",
+			"symlink\\s*\\(]",
+			"[symlink\\s*\\(]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Innovate.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"scri",
+				"js/scriptsweb.js"
+			],
+			[
+				"sli",
+				"template-parts/slider.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"foote",
+				"footer.php"
+			],
+			[
+				"scr",
+				"js/scriptsweb.js"
+			],
+			[
+				"_cu",
+				"scss/_custom.scss"
+			],
+			[
+				"slider",
+				"template-parts/slider.php"
+			],
+			[
+				"slie",
+				"node_modules/browser-sync/lib/internal-events.js"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"fun",
+				"functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
